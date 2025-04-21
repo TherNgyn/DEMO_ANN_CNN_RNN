@@ -1,0 +1,15 @@
+About the data:
+
+age: Tuổi
+anaemia: Thiếu máu
+creatinine_phosphokinase: Chỉ số creatinine phosphokinase trong máu tính bằng mcg/L
+diabetes: Bệnh tiểu đường
+ejection_fraction: Chỉ số phân suất tống máu, là phần trăm máu được bơm ra từ tâm thất trái trong mỗi nhịp co
+high_blood_pressure: Cao huyết áp
+platelets: Số lượng tiểu cầu trong máu tính bằng kiloplatelets/mL
+serum_creatinine: Chỉ số creatinine trong huyết thanh tính bằng mg/dL
+serum_sodium: Chỉ số natri trong huyết thanh tính bằng mEq/L
+sex: Giới tính
+smoking: Hút thuốc
+time: Thời gian tái khám bệnh tính bằng tháng
+DEATH_EVENT: Sự kiện tử vong
